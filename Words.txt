@@ -1,0 +1,26 @@
+Sunday, Monday, Tuesday, Wednesday, Thursday, Friday, Saturday, January, February, March, April, May, June, July, August, September, October, November, December, winter, spring, autumn, summer
+circle, square, rectangle, triangle, cylinder, oval
+automobile, truck, tractor, tram, subway, airplane, train, bicycle, car, pedestrian, passenger, commuter
+red, orange, yellow, green, blue, purple, white, black, bro
+suggest, develop, borrow, persuade, discuss, review, concentrate, believe, crash, dollars
+beautiful, necessary, fantastic, comfortable, convenient, wonderful, terrible, temporary, permanent, knowledgeable, exciting, boring, difficult, easy
+ten thousand,  nervous
+kitchen, bathroom, bedroom, living room, dining room, lounge, library, gymnasium, gym, cafeteria ,cafe, classroom, waiting room, reception, ticket desk, storage room, theatre
+street, road, avenue, lane, drive, court, place, terrace, way
+north, south, east, west, up, down, right, left, straight, across from, between, beside, diagonal, corner, opposite, adjacent to, near, past, before, after
+turn, move, continue on, walk, cross, pass, start, finish, end, stop, go straight ahead
+tennis court, river, courtyard, laboratory, building, bridge, road, path, traffic lights, bench, seat, table, basketball court, running track, swimming pool, beach, forest, garden, castle
+presentation, project, teamwork, pairs, organisation, outline, proofreading, experiment, reference, lecture, tutor, teacher, attendance, specialist, knowledge, faculty, master's, schedule, management, leadership, questionnaire, statistic, percentage, laboratory, school, university, college
+Mathematics, Science, English, Physical Education , Art, Music, Geography, Biology, Chemistry, History
+ Commerce, Science, Psychology, Engineering, Marketing, Sociology, Medicine, History, Geography, Architecture, Law, Philosophy, Economics, Education
+ assessment, test, revision, pass, fail, repeat, supervise, supervisor, assess, exam, results, degree, certificate
+ vegetarian, vegan, healthy, unhealthy, leisure, disease, vitamin, protein, carbohydrates, exercise, treatment, obese, overweight, fit, doctor, check up, medicine, vitamin, pandemic, virus, cure, vaccination
+ mammals, reptile, primates, predators, prey, mountain, jungle, forest, island, pond, river, stream, zoo, pet, endangered, species, ocean, sea
+North America, South America, Asia, Africa, Europe, Antarctica, Australia, Oceania, England, Canada, China, United Kingdom, Germany, Mexico, Switzerland
+lobal warming, disaster, earthquake, tornado, blizzard, hurricane, pollution, temperature, drought, flood, cyclone, volcanic eruption, deforestation, desertification, bush fires
+Government politics, leader, politician, senator, mayor, laws, regulations, senate, president, society, individual, council, rules
+nuclear, oil, coal, hydro electrical power, natural gas, solar power, source, generate, electricity, dam, windmill, wind turbine, renewable, non-renewable
+apointment, cooperation, employment, Corruption, government, exhibition, occupation, aluminum, century, decade, millennium, individual, creativity, guarantee, satellite, opportunity, licence, frequently, calendar, different
+
+
+
